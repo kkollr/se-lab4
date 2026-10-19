@@ -1,0 +1,3 @@
+# Both stores stocked, firing all bays at once
+GT4500,1,0,1,0
+TORPEDO,ALL     # should attempt to fire both stores

@@ -1,0 +1,4 @@
+# Both stores have 1 torpedo
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # should fire from primary store
+TORPEDO,SINGLE  # should alternate and fire from secondary store

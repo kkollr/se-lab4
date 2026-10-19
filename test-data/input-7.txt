@@ -1,0 +1,3 @@
+# ALL mode with faulty primary (1.0) and working secondary (0.0)
+GT4500,1,1.0,1,0.0
+TORPEDO,ALL     # primary fails, but secondary must succeeds
