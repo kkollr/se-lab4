@@ -1,0 +1,3 @@
+# Primary has 100% failure rate, secondary works fine
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE  # primary fails, ship must NOT try secondary

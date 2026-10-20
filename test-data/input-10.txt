@@ -1,0 +1,4 @@
+# Primary has 1 torpedoe, secondary is empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE # fires from primary store
+TORPEDO,SINGLE # secondary is empty, should fall back to primary store, but primary store is empty, should fail

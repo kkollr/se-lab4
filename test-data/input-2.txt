@@ -1,0 +1,3 @@
+# Primary is empty, secondary has 1 torpedo
+GT4500,0,0,1,0
+TORPEDO,SINGLE  # primary is empty, should fall back to secondary store
